@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Getting started with CSS</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+<style>
+    body{
+        background-image: url('https://www.scienceabc.com/wp-content/uploads/2020/03/Blue-dark-night-sky-with-many-stars-above-field-of-treesPozdeyev-Vitalys.jpg');
+    }
+</style>
+  <body>
+    <form>
+        <div>
+<h1>My Blog</h1>
+h1 {
+    padding: 20px;
+    margin: 20 px;
+    text-align: center;
+    color: white;
+    font-family:'Lobster'cyreal;
+    height: auto;
+}
+ <h2>Come hear my thoughts on life</h2>
+ h2 {
+    padding: 20px;
+    margin: 20 px;
+    text-align: center;
+    color: white;
+    font-family:'Lobster'cyreal;
+    height: auto;
+ }
+
+
+
+
+
+
+
+
+
+
+    </form>
+</body>
+</html>
